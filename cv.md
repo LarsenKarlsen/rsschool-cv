@@ -15,3 +15,13 @@ I work with a large amount of data related to the operation of power plants, inc
 * __"Brest heating grid" 09.2016-10.2020__  
 Created a model for forecasting the supply of thermal energy for the needs of the city of Brest using the methods of machine learning and neural networks(Xgb, Sklearn, pandas, TensorFlow).
 ***
+### Education
+- __Belarusian National Technical University 2016-2018__  
+Specialty Power engineer
+- __Brest State Technical Univercity at 2010-2015__  
+Bachelor's Degree Civil Engineer (Faculty of Engineering Systems and Networks)
+- __Courses:__
+    - [Golang](https://stepik.org/cert/1641778)
+    - [Rolling Scopes School ml-intro-2022Q1](https://app.rs.school/certificate/83h8ci71)
+    - [FreeCodeCamp Python, ML](https://www.freecodecamp.org/certification/fcc26f24a5e-8ee4-41bd-8108-0723699c5895/machine-learning-with-python-v7)
+    - [TheOdinProject (JS, CSS, HTML, React)](https://www.theodinproject.com/)
