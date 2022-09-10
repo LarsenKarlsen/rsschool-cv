@@ -25,3 +25,9 @@ Bachelor's Degree Civil Engineer (Faculty of Engineering Systems and Networks)
     - [Rolling Scopes School ml-intro-2022Q1](https://app.rs.school/certificate/83h8ci71)
     - [FreeCodeCamp Python, ML](https://www.freecodecamp.org/certification/fcc26f24a5e-8ee4-41bd-8108-0723699c5895/machine-learning-with-python-v7)
     - [TheOdinProject (JS, CSS, HTML, React)](https://www.theodinproject.com/)
+### Skills
+* Python(django, pandas, matplotlib, sklearn, tensorflow etc)
+* GIT
+* JS (React), CSS, HTML
+* SQL
+* Golang
