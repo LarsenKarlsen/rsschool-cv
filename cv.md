@@ -9,6 +9,10 @@ Github: https://github.com/LarsenKarlsen
 ### About Me
 Hello I'am Andrei and I will become software engineer. Big fan of AI, space, Warhammer and LOTR.  I'am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative.
 ***
+### Languages
+* Russian - Native
+* English - A2-B1
+***
 ### Work Experience
 *  __RUE "Brestenergo" 10.2020 - now__  
 I work with a large amount of data related to the operation of power plants, including one of the largest in the Republic of Belarus -  [Berezovskaya GRES](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%A0%D0%AD%D0%A1_(%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F)). I am actively working on automation and digitalization of my work. At the moment I am working on creating a database and a web service (Python, Django, js, css) for analyzing stations.  
