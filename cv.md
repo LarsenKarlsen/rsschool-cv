@@ -31,3 +31,51 @@ Bachelor's Degree Civil Engineer (Faculty of Engineering Systems and Networks)
 * JS (React), CSS, HTML
 * SQL
 * Golang
+***
+### Code Examples
+* [ML Ready repository](https://github.com/LarsenKarlsen/eval-selection-9) to Kaggle competition [Forest Cover Type Prediction](https://www.kaggle.com/competitions/forest-cover-type-prediction)  
+
+* [Mini ReactApp to perform Tarot card spread](https://github.com/LarsenKarlsen/taro)  
+
+_JavaScript(Node) code example_
+```
+const sum = (a,b) => {
+    return a+b
+}
+
+console.log(sum(1,2)) // 3
+```
+_Python code example_
+```
+def even_odd(arr: list[int]) -> float:
+    """
+    The function returns the ratio of the sum of even array elements to the sum of odd ones.
+    Example:
+    even_odd([1, 2, 3, 4, 5]) == 0.8889
+    """
+    sums = [0,0]
+    for num in arr:
+        if num%2==0:
+            sums[0]+=num
+        else:
+            sums[1]+=num
+    return  sums[0]/sums[1] if sums[1]>0 else 0
+```
+_Go code example_  
+Given a number N, print out all integer values of a power of two not exceeding N, in ascending order.
+```
+package main
+import ("fmt";"math")
+        
+func main() {
+    var n float64
+    fmt.Scanln(&n)
+    
+    for {
+        for i:=0.;math.Pow(2,i)<=n;i++ {
+            fmt.Print(math.Pow(2,i), " ")
+        }
+        break
+    }
+}
+```
