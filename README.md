@@ -1,1 +1,1 @@
-[CV-page](https://larsenkarlsen.github.io/rsschool-cv/cv)
+[CV-page](https://larsenkarlsen.github.io/rsschool-cv/)
