@@ -1,5 +1,4 @@
-## Andrei Pratasevich
-### Web Developer
+## Andrei Pratasevich  
 ***
 ### Contacts
 Location: Brest, Belarus  
@@ -15,10 +14,10 @@ Hello I'am Andrei and I will become software engineer. Big fan of AI, space, War
 ***
 ### Work Experience
 *  __RUE "Brestenergo" 09.2023 - now__  
-*  __Deputy Head of Energy Sales Service__  
+__Deputy Head of Energy Sales Service__  
 I am currently working in the energy sales service. My duties include leading a department with 14 subordinates. Nearly 600 people work in the company's branches in the direction of sales of electricity and heat energy. The energy sales direction intersects many production issues, such as legal, economic, technical, and others. To solve tasks, business process automation is actively introduced for both internal (billing for calculations with consumers, services for tracking meter devices, etc.) and external processes (personal accounts of household subscribers and legal entities, and several services for interaction with consumers).  
 *  __RUE "Brestenergo" 10.2020 - 09.2023__  
-*  __Engineer of the Production-Technical Department__  
+__Engineer of the Production-Technical Department__  
 I work with a large amount of data related to the operation of power plants, including one of the largest in the Republic of Belarus -  [Berezovskaya GRES](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%A0%D0%AD%D0%A1_(%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F)). I am actively working on automation and digitalization of my work. 
 I have drafted a technical specification for the development of software to automate business processes at my workplace. I am overseeing the development of this software.  
 * __"Brest heating grid" 09.2016-10.2020__  
@@ -42,8 +41,6 @@ Bachelor's Degree Civil Engineer (Faculty of Engineering Systems and Networks)
 ***
 ### Code Examples
 * [ML Ready repository](https://github.com/LarsenKarlsen/eval-selection-9) to Kaggle competition [Forest Cover Type Prediction](https://www.kaggle.com/competitions/forest-cover-type-prediction)  
-
-* [Mini ReactApp to perform Tarot card spread](https://github.com/LarsenKarlsen/taro)  
 
 _JavaScript(Node) code example_
 ```
