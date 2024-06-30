@@ -32,7 +32,8 @@ Bachelor's Degree Civil Engineer (Faculty of Engineering Systems and Networks)
     - [Golang](https://stepik.org/cert/1641778)
     - [Rolling Scopes School ml-intro-2022Q1](https://app.rs.school/certificate/83h8ci71)
     - [FreeCodeCamp Python, ML](https://www.freecodecamp.org/certification/fcc26f24a5e-8ee4-41bd-8108-0723699c5895/machine-learning-with-python-v7)
-    - [TheOdinProject (JS, CSS, HTML, React)](https://www.theodinproject.com/)
+    - [TheOdinProject (JS, CSS, HTML, React)](https://www.theodinproject.com/)  
+    - [Deep Dive Into Modern Web Development (fullstackopen)](https://fullstackopen.com/en/)  
 ### Skills
 * Python(django, pandas, matplotlib, sklearn, tensorflow etc)
 * GIT
@@ -41,6 +42,8 @@ Bachelor's Degree Civil Engineer (Faculty of Engineering Systems and Networks)
 ***
 ### Code Examples
 * [ML Ready repository](https://github.com/LarsenKarlsen/eval-selection-9) to Kaggle competition [Forest Cover Type Prediction](https://www.kaggle.com/competitions/forest-cover-type-prediction)  
+
+* [Bloglist (fullstackopen)](https://github.com/LarsenKarlsen/fullstackopen_blogList)
 
 _JavaScript(Node) code example_
 ```
