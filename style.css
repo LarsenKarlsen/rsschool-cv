@@ -1,5 +1,77 @@
-*, ::before, ::after {
-    box-sizing: border-box;
+/* Основные стили для всей страницы */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+main {
+    background-color: #fff;
+    max-width: 800px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3, h4 {
+    color: #333;
+}
+
+p, li {
+    line-height: 1.6;
+    color: #555;
+}
+
+a {
+    color: #2a7ae2;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Стиль списка */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Стили для footer */
+footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+footer a {
+    color: #2a7ae2;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Стиль для картинки */
+img {
+    display: block;
+    border-radius: 50%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
 }
